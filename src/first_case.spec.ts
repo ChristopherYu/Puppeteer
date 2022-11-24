@@ -1,6 +1,5 @@
 import {Browser, Page} from 'puppeteer';
 import {PPTR} from "../class/pptr";
-import {clickByText} from "./testCasesHelpers"
 import {Main} from "../class/homePage"
 
 let pptr: any;
